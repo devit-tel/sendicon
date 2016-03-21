@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2016 by original authors @ fontello.com</metadata>
+<defs>
+<font id="sendicon" horiz-adv-x="1000" >
+<font-face font-family="sendicon" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="phone" unicode="&#xe800;" d="M251 582c-18-259 222-499 480-481l19 111-129 37c-28 10-65-27-65-27-74 18-166 110-185 185 0 0 37 37 28 64l-37 129-111-18z" horiz-adv-x="1000" />
+
+<glyph glyph-name="pin-drop" unicode="&#xe801;" d="M499 12l0 0c-10 0-18 5-23 13-24 38-227 375-227 501 0 138 112 250 250 250s250-112 250-250c0-127-203-463-227-501-4-8-13-13-23-13z m0 709c-107 0-195-87-195-195 0-84 125-313 195-433 70 120 195 350 195 433 0 108-87 195-195 195z m0-297c-56 0-101 46-101 102s45 101 101 101 101-45 101-101-45-102-101-102z m0 148c-26 0-46-21-46-46 0-26 20-47 46-47s46 21 46 47c0 25-20 46-46 46z m250-624c0 15-12 27-28 27h-444c-16 0-28-12-28-27s12-28 28-28h445c15 0 27 13 27 28z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>
