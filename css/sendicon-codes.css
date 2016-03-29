@@ -1,3 +1,10 @@
 
-.icon-phone:before { content: '\e800'; } /* '' */
-.icon-pin-drop:before { content: '\e801'; } /* '' */
+.icon-icon-pin:before { content: '\e800'; } /* '' */
+.icon-icon-pin-floor:before { content: '\e801'; } /* '' */
+.icon-icon-heart-outline:before { content: '\e802'; } /* '' */
+.icon-icon-search:before { content: '\e803'; } /* '' */
+.icon-icon-phone:before { content: '\e804'; } /* '' */
+.icon-icon-heart:before { content: '\e805'; } /* '' */
+.icon-icon-vehicle-moto:before { content: '\e806'; } /* '' */
+.icon-icon-vehicle-truck:before { content: '\e807'; } /* '' */
+.icon-icon-vehicle-van:before { content: '\e808'; } /* '' */
