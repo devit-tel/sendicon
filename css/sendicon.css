@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'sendicon';
-  src: url('../font/sendicon.eot?46937030');
-  src: url('../font/sendicon.eot?46937030#iefix') format('embedded-opentype'),
-       url('../font/sendicon.woff2?46937030') format('woff2'),
-       url('../font/sendicon.woff?46937030') format('woff'),
-       url('../font/sendicon.ttf?46937030') format('truetype'),
-       url('../font/sendicon.svg?46937030#sendicon') format('svg');
+  src: url('../font/sendicon.eot?42536421');
+  src: url('../font/sendicon.eot?42536421#iefix') format('embedded-opentype'),
+       url('../font/sendicon.woff2?42536421') format('woff2'),
+       url('../font/sendicon.woff?42536421') format('woff'),
+       url('../font/sendicon.ttf?42536421') format('truetype'),
+       url('../font/sendicon.svg?42536421#sendicon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -15,15 +15,16 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: 'sendicon';
-    src: url('../font/sendicon.svg?46937030#sendicon') format('svg');
+    src: url('../font/sendicon.svg?42536421#sendicon') format('svg');
   }
 }
 */
  .sendicon {
   font-family: 'sendicon';
  }
+
  [class^="icon-"]:before, [class*=" icon-"]:before {
-  font-family: 'sendicon';
+  font-family: "sendicon";
   font-style: normal;
   font-weight: normal;
   speak: none;
@@ -111,3 +112,7 @@
 .icon-icon-vehicle-moto:before { content: '\e833'; } /* '' */
 .icon-icon-vehicle-truck:before { content: '\e834'; } /* '' */
 .icon-icon-vehicle-van:before { content: '\e835'; } /* '' */
+.icon-icon-barcode:before { content: '\e836'; } /* '' */
+.icon-icon-statistic:before { content: '\e837'; } /* '' */
+.icon-icon-pencil-edit:before { content: '\e838'; } /* '' */
+.icon-icon-datepicker:before { content: '\e839'; } /* '' */
