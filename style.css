@@ -1,0 +1,207 @@
+@font-face {
+    font-family: 'icomoon';
+    src:    url('fonts/icomoon.eot?9ysjwc');
+    src:    url('fonts/icomoon.eot?9ysjwc#iefix') format('embedded-opentype'),
+        url('fonts/icomoon.ttf?9ysjwc') format('truetype'),
+        url('fonts/icomoon.woff?9ysjwc') format('woff'),
+        url('fonts/icomoon.svg?9ysjwc#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-alarm-outline:before {
+    content: "\e900";
+}
+.icon-alarm:before {
+    content: "\e901";
+}
+.icon-back:before {
+    content: "\e902";
+}
+.icon-barcode:before {
+    content: "\e903";
+}
+.icon-billing:before {
+    content: "\e904";
+}
+.icon-bookmark:before {
+    content: "\e905";
+}
+.icon-camera:before {
+    content: "\e906";
+}
+.icon-cancel-circle:before {
+    content: "\e907";
+}
+.icon-cancel:before {
+    content: "\e908";
+}
+.icon-cash:before {
+    content: "\e909";
+}
+.icon-checked-circle:before {
+    content: "\e90a";
+}
+.icon-checked:before {
+    content: "\e90b";
+}
+.icon-clear-circle:before {
+    content: "\e90c";
+}
+.icon-clear:before {
+    content: "\e90d";
+}
+.icon-datepicker:before {
+    content: "\e90e";
+}
+.icon-down:before {
+    content: "\e90f";
+}
+.icon-heart-outline:before {
+    content: "\e910";
+}
+.icon-heart:before {
+    content: "\e911";
+}
+.icon-home:before {
+    content: "\e912";
+}
+.icon-link:before {
+    content: "\e913";
+}
+.icon-lock:before {
+    content: "\e914";
+}
+.icon-menu-active-delivery:before {
+    content: "\e915";
+}
+.icon-menu-assignment:before {
+    content: "\e916";
+}
+.icon-menu-faq:before {
+    content: "\e917";
+}
+.icon-menu-history:before {
+    content: "\e918";
+}
+.icon-menu-news:before {
+    content: "\e919";
+}
+.icon-menu-setting:before {
+    content: "\e91a";
+}
+.icon-next:before {
+    content: "\e91b";
+}
+.icon-office:before {
+    content: "\e91c";
+}
+.icon-parcel-dropoff-circle:before {
+    content: "\e91d";
+}
+.icon-parcel-dropoff:before {
+    content: "\e91e";
+}
+.icon-parcel-pickup-circle:before {
+    content: "\e91f";
+}
+.icon-parcel-pickup:before {
+    content: "\e920";
+}
+.icon-parcel:before {
+    content: "\e921";
+}
+.icon-pencil-edit:before {
+    content: "\e922";
+}
+.icon-people:before {
+    content: "\e923";
+}
+.icon-phone-circle-outline:before {
+    content: "\e924";
+}
+.icon-phone-circle:before {
+    content: "\e925";
+}
+.icon-phone:before {
+    content: "\e926";
+}
+.icon-pin-floor:before {
+    content: "\e927";
+}
+.icon-pin:before {
+    content: "\e928";
+}
+.icon-reorder:before {
+    content: "\e929";
+}
+.icon-retry:before {
+    content: "\e92a";
+}
+.icon-search:before {
+    content: "\e92b";
+}
+.icon-sendit-rocket:before {
+    content: "\e92c";
+}
+.icon-service-cash-on-delivery:before {
+    content: "\e92d";
+}
+.icon-service-document-processing:before {
+    content: "\e92e";
+}
+.icon-service-hot-food:before {
+    content: "\e92f";
+}
+.icon-service-insurrance:before {
+    content: "\e930";
+}
+.icon-service-mailing:before {
+    content: "\e931";
+}
+.icon-service-photo-id:before {
+    content: "\e932";
+}
+.icon-service-purchase:before {
+    content: "\e933";
+}
+.icon-service-return-route:before {
+    content: "\e934";
+}
+.icon-shopping-bag-opened:before {
+    content: "\e935";
+}
+.icon-shopping-bag:before {
+    content: "\e936";
+}
+.icon-statistic:before {
+    content: "\e937";
+}
+.icon-up:before {
+    content: "\e938";
+}
+.icon-vehicle-moto:before {
+    content: "\e939";
+}
+.icon-vehicle-truck:before {
+    content: "\e93a";
+}
+.icon-vehicle-van:before {
+    content: "\e93b";
+}
+
