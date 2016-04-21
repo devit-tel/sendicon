@@ -1,0 +1,222 @@
+@font-face {
+    font-family: 'icomoon';
+    src: url('./sendicon-font/fonts/icomoon.eot?yroa2f');
+    src: url('./sendicon-font/fonts/icomoon.eot?yroa2f#iefix') format('embedded-opentype'),
+        url('./sendicon-font/fonts/icomoon.ttf?yroa2f') format('truetype'),
+        url('./sendicon-font/fonts/icomoon.woff?yroa2f') format('woff'),
+        url('./sendicon-font/fonts/icomoon.svg?yroa2f#icomoon') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
+    speak: none;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-alarm-outline:before {
+    content: "\e900";
+}
+.icon-alarm:before {
+    content: "\e901";
+}
+.icon-back:before {
+    content: "\e902";
+}
+.icon-barcode:before {
+    content: "\e903";
+}
+.icon-billing:before {
+    content: "\e904";
+}
+.icon-bookmark:before {
+    content: "\e905";
+}
+.icon-camera:before {
+    content: "\e906";
+}
+.icon-cancel-circle:before {
+    content: "\e907";
+}
+.icon-cancel:before {
+    content: "\e908";
+}
+.icon-cash:before {
+    content: "\e909";
+}
+.icon-checked-circle:before {
+    content: "\e90a";
+}
+.icon-checked:before {
+    content: "\e90b";
+}
+.icon-clear-circle:before {
+    content: "\e90c";
+}
+.icon-clear:before {
+    content: "\e90d";
+}
+.icon-datepicker:before {
+    content: "\e90e";
+}
+.icon-down:before {
+    content: "\e90f";
+}
+.icon-heart-outline:before {
+    content: "\e910";
+}
+.icon-heart:before {
+    content: "\e911";
+}
+.icon-home:before {
+    content: "\e912";
+}
+.icon-left:before {
+    content: "\e913";
+}
+.icon-link:before {
+    content: "\e914";
+}
+.icon-location:before {
+    content: "\e915";
+}
+.icon-lock:before {
+    content: "\e916";
+}
+.icon-menu-active-delivery:before {
+    content: "\e917";
+}
+.icon-menu-assignment:before {
+    content: "\e918";
+}
+.icon-menu-faq:before {
+    content: "\e919";
+}
+.icon-menu-history:before {
+    content: "\e91a";
+}
+.icon-menu-news:before {
+    content: "\e91b";
+}
+.icon-menu-setting:before {
+    content: "\e91c";
+}
+.icon-next:before {
+    content: "\e91d";
+}
+.icon-office:before {
+    content: "\e91e";
+}
+.icon-parcel-dropoff-circle:before {
+    content: "\e91f";
+}
+.icon-parcel-dropoff:before {
+    content: "\e920";
+}
+.icon-parcel-pickup-circle:before {
+    content: "\e921";
+}
+.icon-parcel-pickup:before {
+    content: "\e922";
+}
+.icon-parcel:before {
+    content: "\e923";
+}
+.icon-pencil-edit:before {
+    content: "\e924";
+}
+.icon-people:before {
+    content: "\e925";
+}
+.icon-phone-cc:before {
+    content: "\e926";
+}
+.icon-phone-circle-outline:before {
+    content: "\e927";
+}
+.icon-phone-circle:before {
+    content: "\e928";
+}
+.icon-phone:before {
+    content: "\e929";
+}
+.icon-pin-floor:before {
+    content: "\e92a";
+}
+.icon-pin:before {
+    content: "\e92b";
+}
+.icon-reorder:before {
+    content: "\e92c";
+}
+.icon-retry:before {
+    content: "\e92d";
+}
+.icon-right:before {
+    content: "\e92e";
+}
+.icon-search:before {
+    content: "\e92f";
+}
+.icon-sendit-rocket:before {
+    content: "\e930";
+}
+.icon-service-cash-on-delivery:before {
+    content: "\e931";
+}
+.icon-service-document-processing:before {
+    content: "\e932";
+}
+.icon-service-hot-food:before {
+    content: "\e933";
+}
+.icon-service-insurrance:before {
+    content: "\e934";
+}
+.icon-service-mailing:before {
+    content: "\e935";
+}
+.icon-service-photo-id:before {
+    content: "\e936";
+}
+.icon-service-purchase:before {
+    content: "\e937";
+}
+.icon-service-return-route:before {
+    content: "\e938";
+}
+.icon-shopping-bag-opened:before {
+    content: "\e939";
+}
+.icon-shopping-bag:before {
+    content: "\e93a";
+}
+.icon-statistic:before {
+    content: "\e93b";
+}
+.icon-traffic:before {
+    content: "\e93c";
+}
+.icon-up:before {
+    content: "\e93d";
+}
+.icon-vehicle-moto:before {
+    content: "\e93e";
+}
+.icon-vehicle-truck:before {
+    content: "\e93f";
+}
+.icon-vehicle-van:before {
+    content: "\e940";
+}
+
