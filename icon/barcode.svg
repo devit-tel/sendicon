@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" baseProfile="tiny" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
-	 x="0px" y="0px" width="500px" height="500px" viewBox="-47 170.9 500 500" xml:space="preserve">
-<path d="M97.6,358.3h17.1v126H97.6V358.3z M127.6,358.3h17.1v126h-17.1V358.3z M151.2,358.3h17.1v126h-17.1V358.3z M181.2,358.3h8.6
-	v126h-8.6V358.3z M202.6,358.3h8.6v126h-8.6V358.3z M224.1,358.3h23.6v126h-23.6V358.3z M266.9,358.3h21.4v126h-21.4V358.3z
-	 M299.1,358.3h8.6v126h-8.6V358.3z M353,312.9h-55.1v5.3h49.9V368h5.3V312.9z M108.1,523.6H58.2v-49.9H53v55.1h55.1V523.6z"/>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="500px" height="500px" viewBox="0 0 500 500" style="enable-background:new 0 0 500 500;" xml:space="preserve">
+<path d="M367.1,326.6v-153h10.4v153L367.1,326.6L367.1,326.6z M354,326.6v-153H328v153L354,326.6L354,326.6z M304.7,326.6v-153H276
+	v153L304.7,326.6L304.7,326.6z M260.3,326.6v-153h-10.4v153L260.3,326.6L260.3,326.6z M234.4,326.6v-153H224v153L234.4,326.6
+	L234.4,326.6z M208.3,326.6v-153h-20.7v153L208.3,326.6L208.3,326.6z M179.5,326.6v-153h-20.7v153L179.5,326.6L179.5,326.6z
+	 M143.1,326.6v-153h-20.7v153L143.1,326.6L143.1,326.6z M122.3,398.9v-11.8H61.8v-60.5H50v72.3H122.3z M450,173.5v-72.2h-0.2v-0.2
+	h-72.3v12H438v60.4H450z"/>
 </svg>
