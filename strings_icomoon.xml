@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<string name="icon_more">&#xe943;</string>
+<string name="icon_schedule_circle">&#xe944;</string>
+<string name="icon_story_cashondemand_circle">&#xe945;</string>
 <string name="icon_story_cashondemand">&#xe942;</string>
 <string name="icon_alarm_outline">&#xe900;</string>
 <string name="icon_alarm">&#xe901;</string>
