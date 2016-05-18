@@ -73,4 +73,5 @@
 <string name="icon_vehicle_moto">&#xe93f;</string>
 <string name="icon_vehicle_truck">&#xe940;</string>
 <string name="icon_vehicle_van">&#xe941;</string>
+<string name="icon_save">&#xe94b;</string>
 </resources>
