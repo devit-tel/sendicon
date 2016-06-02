@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<string name="icon-triangly-left">&#xe94e;</string>
+<string name="icon-triangly-right">&#xe94f;</string>
 <string name="icon-blank-circle">&#xe94c;</string>
 <string name="icon-blank">&#xe94d;</string>
 <string name="icon_location_dropoff">&#xe947;</string>
