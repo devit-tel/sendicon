@@ -8,22 +8,46 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
-					"ic_power_off"
+					"power-off"
 				]
 			},
 			"attrs": [],
 			"properties": {
-				"order": 82,
-				"id": 0,
+				"order": 99,
+				"id": 220,
 				"prevSize": 32,
 				"code": 59728,
-				"name": "ic_power_off"
+				"name": "power-off"
 			},
 			"setIdx": 0,
-			"setId": 2,
+			"setId": 1,
 			"iconIdx": 0
+		},
+		{
+			"icon": {
+				"paths": [
+					"M576 512c0 35.328-28.672 64-64 64s-64-28.672-64-64 28.672-64 64-64c35.328 0 64 28.672 64 64zM512 704c-35.328 0-64 28.672-64 64s28.672 64 64 64c35.328 0 64-28.672 64-64s-28.672-64-64-64zM512 192c-35.328 0-64 28.672-64 64s28.672 64 64 64c35.328 0 64-28.672 64-64s-28.672-64-64-64z"
+				],
+				"attrs": [],
+				"isMulticolor": false,
+				"grid": 16,
+				"tags": [
+					"more-options"
+				]
+			},
+			"attrs": [],
+			"properties": {
+				"order": 96,
+				"id": 219,
+				"prevSize": 32,
+				"code": 59729,
+				"name": "more-options"
+			},
+			"setIdx": 0,
+			"setId": 1,
+			"iconIdx": 1
 		},
 		{
 			"icon": {
@@ -32,22 +56,22 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"triangly-left"
 				]
 			},
 			"attrs": [],
 			"properties": {
-				"order": 80,
+				"order": 100,
 				"id": 76,
 				"prevSize": 32,
 				"code": 59726,
 				"name": "triangly-left"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 0
+			"iconIdx": 2
 		},
 		{
 			"icon": {
@@ -56,7 +80,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"triangly-right"
 				]
@@ -69,9 +93,9 @@
 				"code": 59727,
 				"name": "triangly-right"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 1
+			"iconIdx": 3
 		},
 		{
 			"icon": {
@@ -80,7 +104,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"blank-circle"
 				]
@@ -93,16 +117,16 @@
 				"code": 59724,
 				"name": "blank-circle"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 2
+			"iconIdx": 4
 		},
 		{
 			"icon": {
 				"paths": [],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"blank"
 				]
@@ -115,9 +139,9 @@
 				"code": 59725,
 				"name": "blank"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 3
+			"iconIdx": 5
 		},
 		{
 			"icon": {
@@ -126,7 +150,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"location-dropoff"
 				]
@@ -139,9 +163,9 @@
 				"code": 59719,
 				"name": "location-dropoff"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 4
+			"iconIdx": 6
 		},
 		{
 			"icon": {
@@ -150,7 +174,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"location-pickup"
 				]
@@ -163,9 +187,9 @@
 				"code": 59720,
 				"name": "location-pickup"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 5
+			"iconIdx": 7
 		},
 		{
 			"icon": {
@@ -174,7 +198,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"less"
 				]
@@ -187,9 +211,9 @@
 				"code": 59718,
 				"name": "less"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 6
+			"iconIdx": 8
 		},
 		{
 			"icon": {
@@ -198,7 +222,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"more"
 				]
@@ -211,9 +235,9 @@
 				"code": 59715,
 				"name": "more"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 7
+			"iconIdx": 9
 		},
 		{
 			"icon": {
@@ -222,7 +246,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"schedule-circle"
 				]
@@ -235,9 +259,9 @@
 				"code": 59716,
 				"name": "schedule-circle"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 8
+			"iconIdx": 10
 		},
 		{
 			"icon": {
@@ -246,7 +270,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"story-cashondemand-circle"
 				]
@@ -259,9 +283,9 @@
 				"code": 59717,
 				"name": "story-cashondemand-circle"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 9
+			"iconIdx": 11
 		},
 		{
 			"icon": {
@@ -270,7 +294,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"story-cashondemand"
 				]
@@ -283,9 +307,9 @@
 				"code": 59714,
 				"name": "story-cashondemand"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 10
+			"iconIdx": 12
 		},
 		{
 			"icon": {
@@ -294,7 +318,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"alarm-outline"
 				]
@@ -307,9 +331,9 @@
 				"code": 59648,
 				"name": "alarm-outline"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 11
+			"iconIdx": 13
 		},
 		{
 			"icon": {
@@ -318,7 +342,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"alarm"
 				]
@@ -331,9 +355,9 @@
 				"code": 59649,
 				"name": "alarm"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 12
+			"iconIdx": 14
 		},
 		{
 			"icon": {
@@ -342,7 +366,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"back"
 				]
@@ -355,9 +379,9 @@
 				"code": 59650,
 				"name": "back"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 13
+			"iconIdx": 15
 		},
 		{
 			"icon": {
@@ -366,7 +390,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"barcode"
 				]
@@ -379,9 +403,9 @@
 				"code": 59651,
 				"name": "barcode"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 14
+			"iconIdx": 16
 		},
 		{
 			"icon": {
@@ -390,7 +414,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"billing"
 				]
@@ -403,9 +427,9 @@
 				"code": 59652,
 				"name": "billing"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 15
+			"iconIdx": 17
 		},
 		{
 			"icon": {
@@ -414,7 +438,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"bookmark"
 				]
@@ -427,9 +451,9 @@
 				"code": 59653,
 				"name": "bookmark"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 16
+			"iconIdx": 18
 		},
 		{
 			"icon": {
@@ -438,7 +462,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"camera"
 				]
@@ -451,9 +475,9 @@
 				"code": 59654,
 				"name": "camera"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 17
+			"iconIdx": 19
 		},
 		{
 			"icon": {
@@ -462,7 +486,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"cancel-circle"
 				]
@@ -475,9 +499,9 @@
 				"code": 59655,
 				"name": "cancel-circle"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 18
+			"iconIdx": 20
 		},
 		{
 			"icon": {
@@ -486,7 +510,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"cancel"
 				]
@@ -499,9 +523,9 @@
 				"code": 59656,
 				"name": "cancel"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 19
+			"iconIdx": 21
 		},
 		{
 			"icon": {
@@ -510,7 +534,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"cash"
 				]
@@ -523,9 +547,9 @@
 				"code": 59657,
 				"name": "cash"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 20
+			"iconIdx": 22
 		},
 		{
 			"icon": {
@@ -534,7 +558,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"checked-circle"
 				]
@@ -547,9 +571,9 @@
 				"code": 59658,
 				"name": "checked-circle"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 21
+			"iconIdx": 23
 		},
 		{
 			"icon": {
@@ -558,7 +582,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"checked"
 				]
@@ -571,9 +595,9 @@
 				"code": 59659,
 				"name": "checked"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 22
+			"iconIdx": 24
 		},
 		{
 			"icon": {
@@ -582,7 +606,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"clear-circle"
 				]
@@ -595,9 +619,9 @@
 				"code": 59660,
 				"name": "clear-circle"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 23
+			"iconIdx": 25
 		},
 		{
 			"icon": {
@@ -606,7 +630,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"clear"
 				]
@@ -619,9 +643,9 @@
 				"code": 59661,
 				"name": "clear"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 24
+			"iconIdx": 26
 		},
 		{
 			"icon": {
@@ -630,7 +654,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"datepicker"
 				]
@@ -643,9 +667,9 @@
 				"code": 59662,
 				"name": "datepicker"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 25
+			"iconIdx": 27
 		},
 		{
 			"icon": {
@@ -654,7 +678,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"down"
 				]
@@ -667,9 +691,9 @@
 				"code": 59663,
 				"name": "down"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 26
+			"iconIdx": 28
 		},
 		{
 			"icon": {
@@ -678,7 +702,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"heart-outline"
 				]
@@ -691,9 +715,9 @@
 				"code": 59664,
 				"name": "heart-outline"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 27
+			"iconIdx": 29
 		},
 		{
 			"icon": {
@@ -702,7 +726,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"heart"
 				]
@@ -715,9 +739,9 @@
 				"code": 59665,
 				"name": "heart"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 28
+			"iconIdx": 30
 		},
 		{
 			"icon": {
@@ -726,7 +750,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"home"
 				]
@@ -739,9 +763,9 @@
 				"code": 59666,
 				"name": "home"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 29
+			"iconIdx": 31
 		},
 		{
 			"icon": {
@@ -750,7 +774,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"link"
 				]
@@ -763,9 +787,9 @@
 				"code": 59667,
 				"name": "link"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 30
+			"iconIdx": 32
 		},
 		{
 			"icon": {
@@ -774,7 +798,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"location"
 				]
@@ -787,9 +811,9 @@
 				"code": 59668,
 				"name": "location"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 31
+			"iconIdx": 33
 		},
 		{
 			"icon": {
@@ -798,7 +822,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"lock"
 				]
@@ -811,9 +835,9 @@
 				"code": 59669,
 				"name": "lock"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 32
+			"iconIdx": 34
 		},
 		{
 			"icon": {
@@ -822,7 +846,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"menu-active-delivery"
 				]
@@ -835,9 +859,9 @@
 				"code": 59670,
 				"name": "menu-active-delivery"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 33
+			"iconIdx": 35
 		},
 		{
 			"icon": {
@@ -846,7 +870,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"menu-assignment"
 				]
@@ -859,9 +883,9 @@
 				"code": 59671,
 				"name": "menu-assignment"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 34
+			"iconIdx": 36
 		},
 		{
 			"icon": {
@@ -870,7 +894,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"menu-faq"
 				]
@@ -883,9 +907,9 @@
 				"code": 59672,
 				"name": "menu-faq"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 35
+			"iconIdx": 37
 		},
 		{
 			"icon": {
@@ -894,7 +918,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"menu-history"
 				]
@@ -907,9 +931,9 @@
 				"code": 59673,
 				"name": "menu-history"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 36
+			"iconIdx": 38
 		},
 		{
 			"icon": {
@@ -918,7 +942,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"menu-news"
 				]
@@ -931,9 +955,9 @@
 				"code": 59674,
 				"name": "menu-news"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 37
+			"iconIdx": 39
 		},
 		{
 			"icon": {
@@ -942,7 +966,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"menu-setting"
 				]
@@ -955,9 +979,9 @@
 				"code": 59675,
 				"name": "menu-setting"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 38
+			"iconIdx": 40
 		},
 		{
 			"icon": {
@@ -966,7 +990,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"move-left-right"
 				]
@@ -979,9 +1003,9 @@
 				"code": 59676,
 				"name": "move-left-right"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 39
+			"iconIdx": 41
 		},
 		{
 			"icon": {
@@ -990,7 +1014,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"move-up-down"
 				]
@@ -1003,9 +1027,9 @@
 				"code": 59677,
 				"name": "move-up-down"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 40
+			"iconIdx": 42
 		},
 		{
 			"icon": {
@@ -1014,7 +1038,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"move"
 				]
@@ -1027,9 +1051,9 @@
 				"code": 59678,
 				"name": "move"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 41
+			"iconIdx": 43
 		},
 		{
 			"icon": {
@@ -1038,7 +1062,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"office"
 				]
@@ -1051,9 +1075,9 @@
 				"code": 59679,
 				"name": "office"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 42
+			"iconIdx": 44
 		},
 		{
 			"icon": {
@@ -1062,7 +1086,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"parcel-dropoff-circle"
 				]
@@ -1075,9 +1099,9 @@
 				"code": 59680,
 				"name": "parcel-dropoff-circle"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 43
+			"iconIdx": 45
 		},
 		{
 			"icon": {
@@ -1086,7 +1110,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"parcel-dropoff"
 				]
@@ -1099,9 +1123,9 @@
 				"code": 59681,
 				"name": "parcel-dropoff"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 44
+			"iconIdx": 46
 		},
 		{
 			"icon": {
@@ -1110,7 +1134,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"parcel-pickup-circle"
 				]
@@ -1123,9 +1147,9 @@
 				"code": 59682,
 				"name": "parcel-pickup-circle"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 45
+			"iconIdx": 47
 		},
 		{
 			"icon": {
@@ -1134,7 +1158,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"parcel-pickup"
 				]
@@ -1147,9 +1171,9 @@
 				"code": 59683,
 				"name": "parcel-pickup"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 46
+			"iconIdx": 48
 		},
 		{
 			"icon": {
@@ -1158,7 +1182,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"parcel"
 				]
@@ -1171,9 +1195,9 @@
 				"code": 59684,
 				"name": "parcel"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 47
+			"iconIdx": 49
 		},
 		{
 			"icon": {
@@ -1182,7 +1206,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"pencil-edit"
 				]
@@ -1195,9 +1219,9 @@
 				"code": 59685,
 				"name": "pencil-edit"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 48
+			"iconIdx": 50
 		},
 		{
 			"icon": {
@@ -1206,7 +1230,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"people"
 				]
@@ -1219,9 +1243,9 @@
 				"code": 59686,
 				"name": "people"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 49
+			"iconIdx": 51
 		},
 		{
 			"icon": {
@@ -1230,7 +1254,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"phone-cc"
 				]
@@ -1243,9 +1267,9 @@
 				"code": 59687,
 				"name": "phone-cc"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 50
+			"iconIdx": 52
 		},
 		{
 			"icon": {
@@ -1254,7 +1278,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"phone-circle-outline"
 				]
@@ -1267,9 +1291,9 @@
 				"code": 59688,
 				"name": "phone-circle-outline"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 51
+			"iconIdx": 53
 		},
 		{
 			"icon": {
@@ -1278,7 +1302,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"phone-circle"
 				]
@@ -1291,9 +1315,9 @@
 				"code": 59689,
 				"name": "phone-circle"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 52
+			"iconIdx": 54
 		},
 		{
 			"icon": {
@@ -1302,7 +1326,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"phone"
 				]
@@ -1315,9 +1339,9 @@
 				"code": 59690,
 				"name": "phone"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 53
+			"iconIdx": 55
 		},
 		{
 			"icon": {
@@ -1326,7 +1350,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"pin-floor"
 				]
@@ -1339,9 +1363,9 @@
 				"code": 59691,
 				"name": "pin-floor"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 54
+			"iconIdx": 56
 		},
 		{
 			"icon": {
@@ -1350,7 +1374,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"pin"
 				]
@@ -1363,9 +1387,9 @@
 				"code": 59692,
 				"name": "pin"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 55
+			"iconIdx": 57
 		},
 		{
 			"icon": {
@@ -1374,7 +1398,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"reorder"
 				]
@@ -1387,9 +1411,9 @@
 				"code": 59693,
 				"name": "reorder"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 56
+			"iconIdx": 58
 		},
 		{
 			"icon": {
@@ -1398,7 +1422,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"retry"
 				]
@@ -1411,9 +1435,9 @@
 				"code": 59694,
 				"name": "retry"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 57
+			"iconIdx": 59
 		},
 		{
 			"icon": {
@@ -1422,7 +1446,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"right"
 				]
@@ -1435,9 +1459,9 @@
 				"code": 59695,
 				"name": "right"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 58
+			"iconIdx": 60
 		},
 		{
 			"icon": {
@@ -1446,7 +1470,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"search"
 				]
@@ -1459,9 +1483,9 @@
 				"code": 59696,
 				"name": "search"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 59
+			"iconIdx": 61
 		},
 		{
 			"icon": {
@@ -1470,7 +1494,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"sendit-rocket"
 				]
@@ -1483,9 +1507,9 @@
 				"code": 59697,
 				"name": "sendit-rocket"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 60
+			"iconIdx": 62
 		},
 		{
 			"icon": {
@@ -1494,7 +1518,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"service-cash-on-delivery"
 				]
@@ -1507,9 +1531,9 @@
 				"code": 59698,
 				"name": "service-cash-on-delivery"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 61
+			"iconIdx": 63
 		},
 		{
 			"icon": {
@@ -1518,7 +1542,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"service-document-processing"
 				]
@@ -1531,9 +1555,9 @@
 				"code": 59699,
 				"name": "service-document-processing"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 62
+			"iconIdx": 64
 		},
 		{
 			"icon": {
@@ -1542,7 +1566,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"service-hot-food"
 				]
@@ -1555,9 +1579,9 @@
 				"code": 59700,
 				"name": "service-hot-food"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 63
+			"iconIdx": 65
 		},
 		{
 			"icon": {
@@ -1566,7 +1590,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"service-insurrance"
 				]
@@ -1579,9 +1603,9 @@
 				"code": 59701,
 				"name": "service-insurrance"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 64
+			"iconIdx": 66
 		},
 		{
 			"icon": {
@@ -1590,7 +1614,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"service-mailing"
 				]
@@ -1603,9 +1627,9 @@
 				"code": 59702,
 				"name": "service-mailing"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 65
+			"iconIdx": 67
 		},
 		{
 			"icon": {
@@ -1614,7 +1638,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"service-photo-id"
 				]
@@ -1627,9 +1651,9 @@
 				"code": 59703,
 				"name": "service-photo-id"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 66
+			"iconIdx": 68
 		},
 		{
 			"icon": {
@@ -1638,7 +1662,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"service-purchase"
 				]
@@ -1651,9 +1675,9 @@
 				"code": 59704,
 				"name": "service-purchase"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 67
+			"iconIdx": 69
 		},
 		{
 			"icon": {
@@ -1662,7 +1686,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"service-return-route"
 				]
@@ -1675,9 +1699,9 @@
 				"code": 59705,
 				"name": "service-return-route"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 68
+			"iconIdx": 70
 		},
 		{
 			"icon": {
@@ -1686,7 +1710,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"shopping-bag-opened"
 				]
@@ -1699,9 +1723,9 @@
 				"code": 59706,
 				"name": "shopping-bag-opened"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 69
+			"iconIdx": 71
 		},
 		{
 			"icon": {
@@ -1710,7 +1734,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"shopping-bag"
 				]
@@ -1723,9 +1747,9 @@
 				"code": 59707,
 				"name": "shopping-bag"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 70
+			"iconIdx": 72
 		},
 		{
 			"icon": {
@@ -1734,7 +1758,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"statistic"
 				]
@@ -1747,9 +1771,9 @@
 				"code": 59708,
 				"name": "statistic"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 71
+			"iconIdx": 73
 		},
 		{
 			"icon": {
@@ -1758,7 +1782,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"traffic"
 				]
@@ -1771,9 +1795,9 @@
 				"code": 59709,
 				"name": "traffic"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 72
+			"iconIdx": 74
 		},
 		{
 			"icon": {
@@ -1782,7 +1806,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"up"
 				]
@@ -1795,9 +1819,9 @@
 				"code": 59710,
 				"name": "up"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 73
+			"iconIdx": 75
 		},
 		{
 			"icon": {
@@ -1806,7 +1830,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"vehicle-moto"
 				]
@@ -1819,9 +1843,9 @@
 				"code": 59711,
 				"name": "vehicle-moto"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 74
+			"iconIdx": 76
 		},
 		{
 			"icon": {
@@ -1830,7 +1854,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"vehicle-truck"
 				]
@@ -1843,9 +1867,9 @@
 				"code": 59712,
 				"name": "vehicle-truck"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 75
+			"iconIdx": 77
 		},
 		{
 			"icon": {
@@ -1854,7 +1878,7 @@
 				],
 				"attrs": [],
 				"isMulticolor": false,
-				"grid": 0,
+				"grid": 16,
 				"tags": [
 					"vehicle-van"
 				]
@@ -1867,9 +1891,9 @@
 				"code": 59713,
 				"name": "vehicle-van"
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 76
+			"iconIdx": 78
 		},
 		{
 			"icon": {
@@ -1887,15 +1911,15 @@
 			"attrs": [],
 			"properties": {
 				"order": 76,
-				"prevSize": 16,
+				"prevSize": 32,
 				"ligatures": "floppy-disk, save2",
 				"name": "save",
 				"id": 99,
 				"code": 59723
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 77
+			"iconIdx": 79
 		},
 		{
 			"icon": {
@@ -1916,15 +1940,15 @@
 			"attrs": [],
 			"properties": {
 				"order": 75,
-				"prevSize": 16,
+				"prevSize": 32,
 				"ligatures": "star-empty, rate",
 				"name": "star-empty",
 				"id": 216,
 				"code": 59721
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 78
+			"iconIdx": 80
 		},
 		{
 			"icon": {
@@ -1945,15 +1969,15 @@
 			"attrs": [],
 			"properties": {
 				"order": 74,
-				"prevSize": 16,
+				"prevSize": 32,
 				"ligatures": "star-full, rate3",
 				"name": "star-full",
 				"id": 218,
 				"code": 59722
 			},
-			"setIdx": 1,
+			"setIdx": 0,
 			"setId": 1,
-			"iconIdx": 79
+			"iconIdx": 81
 		}
 	],
 	"height": 1024,
@@ -1989,6 +2013,9 @@
 		"historySize": 100,
 		"showCodes": true,
 		"gridSize": 16,
-		"quickUsageToken": {}
+		"quickUsageToken": {
+			"UntitledProject": "NThiNzRlZDgyNDI4ZGQ4MmI1NGFhYzI0MTNiNzZhOTIjMSMxNDY2NzQ4NTk5IyMj"
+		},
+		"showLiga": true
 	}
 }
