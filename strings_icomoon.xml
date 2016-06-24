@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="icon-triangly-left">&#xe94e;</string>
-<string name="icon-triangly-right">&#xe94f;</string>
-<string name="icon-blank-circle">&#xe94c;</string>
-<string name="icon-blank">&#xe94d;</string>
+<string name="icon_power_off">&#xe950;</string>
+<string name="icon_triangly_right">&#xe94f;</string>
+<string name="icon_blank_circle">&#xe94c;</string>
+<string name="icon_blank">&#xe94d;</string>
 <string name="icon_location_dropoff">&#xe947;</string>
 <string name="icon_location_pickup">&#xe948;</string>
 <string name="icon_less">&#xe946;</string>
