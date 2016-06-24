@@ -24,7 +24,7 @@
     -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-ic_power_off:before {
+.icon-power-off:before {
     content: "\e950";
 }
 .icon-triangly-left:before {
@@ -267,4 +267,3 @@
 .icon-star-full:before {
     content: "\e94a";
 }
-
