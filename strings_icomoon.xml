@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="icon_power_off">&#xe950;</string>
+<string name="icon_power_off">&#xe954;</string>
+<string name="icon_more_options">&#xe953;</string>
+<string name="icon_triangly_left">&#xe94e;</string>
 <string name="icon_triangly_right">&#xe94f;</string>
 <string name="icon_blank_circle">&#xe94c;</string>
 <string name="icon_blank">&#xe94d;</string>
@@ -77,5 +79,10 @@
 <string name="icon_vehicle_moto">&#xe93f;</string>
 <string name="icon_vehicle_truck">&#xe940;</string>
 <string name="icon_vehicle_van">&#xe941;</string>
+<string name="icon_trash">&#xe950;</string>
+<string name="icon_keyboard">&#xe951;</string>
+<string name="icon_qrcode">&#xe952;</string>
 <string name="icon_save">&#xe94b;</string>
+<string name="icon_star_empty">&#xe949;</string>
+<string name="icon_star_full">&#xe94a;</string>
 </resources>
