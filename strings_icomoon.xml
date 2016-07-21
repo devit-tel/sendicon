@@ -2,6 +2,7 @@
 <resources>
 <string name="icon_power_off">&#xe954;</string>
 <string name="icon_more_options">&#xe953;</string>
+<string name="icon_power_off">&#xe954;</string>
 <string name="icon_triangly_left">&#xe94e;</string>
 <string name="icon_triangly_right">&#xe94f;</string>
 <string name="icon_blank_circle">&#xe94c;</string>
