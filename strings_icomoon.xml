@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+<string name="icon_menu_hamburger">&#xe955;</string>
 <string name="icon_power_off">&#xe954;</string>
 <string name="icon_more_options">&#xe953;</string>
 <string name="icon_power_off">&#xe954;</string>
