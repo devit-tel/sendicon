@@ -4,16 +4,17 @@
   "description": "icon for sendit website.",
   "main": "index.html",
   "scripts": {
-    "test": "no"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sittipong/sendicon.git"
   },
   "author": "Sittipong HAUS",
-  "license": "ISC",
+  "license": "No License",
   "bugs": {
     "url": "https://github.com/sittipong/sendicon/issues"
   },
-  "homepage": "https://github.com/sittipong/sendicon#readme"
+  "homepage": "https://github.com/sittipong/sendicon#readme",
+  "private": true
 }
