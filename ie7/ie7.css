@@ -1,3 +1,6 @@
+.icon-icon-multicase {
+  *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe958;');
+}
 .icon-deliveing-courier {
   *zoom: expression(this.runtimeStyle['zoom'] = '1', this.innerHTML = '&#xe956;');
 }
