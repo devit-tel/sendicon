@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string name="icon-icon-multicase">&#xe958;</string>
+<string name="icon-icon-muliticase">&#xe958;</string>
+<string name="icon-parcel-courier">&#xe959;</string>
+<string name="icon-parcel-courier-circle">&#xe95a;</string>
+<string name="icon-icon-muliticase-circle">&#xe95b;</string>
 <string name="icon-deliveing-courier">&#xe956;</string>
 <string name="icon-return">&#xe957;</string>
 <string name="icon-icon-menu-hamburger">&#xe955;</string>

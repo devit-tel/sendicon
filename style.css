@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?w8nqik');
-  src:  url('fonts/icomoon.eot?w8nqik#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?w8nqik') format('truetype'),
-    url('fonts/icomoon.woff?w8nqik') format('woff'),
-    url('fonts/icomoon.svg?w8nqik#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?xpmwff');
+  src:  url('fonts/icomoon.eot?xpmwff#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?xpmwff') format('truetype'),
+    url('fonts/icomoon.woff?xpmwff') format('woff'),
+    url('fonts/icomoon.svg?xpmwff#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -24,8 +24,17 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
-.icon-icon-multicase:before {
+.icon-icon-muliticase:before {
   content: "\e958";
+}
+.icon-parcel-courier:before {
+  content: "\e959";
+}
+.icon-parcel-courier-circle:before {
+  content: "\e95a";
+}
+.icon-icon-muliticase-circle:before {
+  content: "\e95b";
 }
 .icon-deliveing-courier:before {
   content: "\e956";
